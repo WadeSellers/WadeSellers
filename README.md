@@ -1,8 +1,6 @@
 # Hey, I'm Wade.
 
-I build apps, tools, and games with AI. Coast Guard veteran based in NYC.
-
-I'm not a traditional developer — I'm someone who uses AI as a creative partner to bring ideas to life. If I can think it, I can build it.
+I build apps, tools, and games. Coast Guard veteran based in NYC.
 
 ## What I'm Building
 
