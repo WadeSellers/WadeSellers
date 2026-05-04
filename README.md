@@ -4,6 +4,8 @@ I build apps, tools, and games. Coast Guard veteran based in NYC.
 
 ## What I'm Building
 
+💚 **[Matrix](https://github.com/WadeSellers/matrix-screensaver)** — A macOS app that brings *The Matrix* (1999) digital rain to your desktop wallpaper, lock screen, and a global-hotkey-away fullscreen takeover
+
 🧩 **[CouchWord](https://github.com/WadeSellers/CouchWord)** — An Apple TV crossword puzzle app
 
 📊 **AI Usage Meter** — A macOS menubar app that tracks your AI usage across services
