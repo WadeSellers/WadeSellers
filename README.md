@@ -4,7 +4,7 @@ I build apps, tools, and games. Coast Guard veteran based in NYC.
 
 ## What I'm Building
 
-💚 **[Cipherfall](https://github.com/WadeSellers/matrix-screensaver)** — A macOS app inspired by the digital rain from *The Matrix* (1999) — live desktop wallpaper, matching lock-screen still, and a global-hotkey-away fullscreen takeover
+💚 **[Falling Code](https://github.com/WadeSellers/matrix-screensaver)** — A macOS app inspired by the digital rain from *The Matrix* (1999) — live desktop wallpaper, matching lock-screen still, and a global-hotkey-away fullscreen takeover
 
 🧩 **[CouchWord](https://github.com/WadeSellers/CouchWord)** — An Apple TV crossword puzzle app
 
