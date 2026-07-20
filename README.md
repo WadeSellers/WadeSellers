@@ -1,20 +1,24 @@
 # Hey, I'm Wade.
 
-I build apps, tools, and games. Coast Guard veteran based in NYC.
+I build AI-powered tools end-to-end — and the videos about them. Coast Guard veteran based in NYC.
 
-## What I'm Building
+## The systems
 
-💚 **[Falling Code](https://github.com/WadeSellers/matrix-screensaver)** — A macOS app inspired by the digital rain from *The Matrix* (1999) — live desktop wallpaper, matching lock-screen still, and a global-hotkey-away fullscreen takeover
+🌾 **[reel-harvest](https://github.com/WadeSellers/reel-harvest)** — Share an Instagram Reel from my phone; a Mac Mini in the corner transcribes it locally (Whisper), has Claude rebuild its proven format as a post script in my own voice, and texts back a designed PDF. Nobody touches a computer. $0 marginal cost.
 
-🧩 **[CouchWord](https://github.com/WadeSellers/CouchWord)** — An Apple TV crossword puzzle app
+🃏 **[Names & Faces](https://github.com/WadeSellers/names-and-faces)** — Import a PDF of headshots; on-device Vision finds every face, reads every name, and deals a self-pacing flashcard deck. Meet 23 strangers on Monday, greet them all by name on Friday.
 
-📊 **AI Usage Meter** — A macOS menubar app that tracks your AI usage across services
+🧠 **A self-maintaining personal wiki** — an LLM-run knowledge system that ingests everything I capture, files it, links it, and resurfaces it when it's useful. Private by design — happy to talk about how it works.
 
-🎮 **[Jellie and Tuna's 2D Platformer](https://github.com/WadeSellers/2DPlatformerAttempt)** — A platformer game starring two cats
+## The craft
 
-🎙️ **[Budgeteer](https://github.com/WadeSellers/Budgeteer)** — An audio-based budget app
+💚 **[Falling Code](https://github.com/WadeSellers/matrix-screensaver)** — Screen-accurate digital rain from *The Matrix* (1999) for macOS. Metal renderer, SDF glyph atlas, dual-filter bloom.
 
-🐱 **Cat Play** — An iOS app you AirPlay to your TV to entice your cats with a flickable ball
+📜 **[desk-quotes](https://github.com/WadeSellers/desk-quotes)** — Editorial-minimalist always-on quote slideshow for a vertical tablet. Forty thinkers, hand-curated.
+
+🔖 **[resurfacer](https://github.com/WadeSellers/resurfacer)** — Turns doom scrolling into research. Built December 2025 — where the capture-now, resurface-later thesis behind everything above started.
+
+🧩 **[CouchWord](https://github.com/WadeSellers/CouchWord)** — An Apple TV crossword app. v1 built in one overnight session with Claude.
 
 ## Want Something Built?
 
